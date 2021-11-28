@@ -1,0 +1,22 @@
+.footer-area {
+  color: rgb(255, 255, 255);
+  background: #262339;
+  text-align: center;
+}
+.footer-area h5 {
+  color: #fff;
+  font-size: 32px;
+}
+.footer-contact {
+  color: #e87543;
+  font-weight: bold;
+}
+.footer-fonts i {
+  color: #e87543;
+  font-size: 25px;
+  margin-right: 20px;
+}
+.copy-right-area span {
+  color: #e87543;
+  font-weight: bold;
+}

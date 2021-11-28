@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Paris Hill Tour",
+    "description": "Tours to Paris, a package of 6 nights and 7 days, takes you to the extremely well-known visual sites, sounds and tourist attractions of Paris as well as London, capital city of London and Paris, respectively. This meticulously planned tour itinerary by Indian Holiday takes you to very well-known places of both these popular cities.",
+    "price": "$200",
+    "image": "https://i.ibb.co/T1mGxJL/service-img-1.png"
+  },
+  {
+    "id": 2,
+    "title": "Lake Garda, Italy",
+    "description": "Lake Garda, in northern Italy, is known for its crystal clear water. At the south end, the town of Sirmione is dominated by the Rocca Scaligera, a fortress with harbor views. The nearby Grotte di Catullo archaeological site includes a Roman villa. On the lake's western shore, in Gardone Riviera, is Il Vittoriale degli Italiani, former home of poet d’Annunzio. The Dolomites frame Riva del Garda, a resort in the north.",
+    "price": "$280",
+    "image": "https://i.ibb.co/yBM7wWd/service-img-2.png"
+  },
+  {
+    "id": 3,
+    "title": "Mount Dtna, Italyr",
+    "description": "Mount Etna, or Etna, is an active stratovolcano on the east coast of Sicily, Italy, in the Metropolitan City of Catania, between the cities of Messina and Catania. It lies above the convergent plate margin between the African Plate and the Eurasian Plate.",
+    "price": "$300",
+    "image": "https://i.ibb.co/n32T2Mn/service-img-3.png"
+  },
+  {
+    "id": 4,
+    "title": "Amalfi Costa, Italy",
+    "description": "One look at the Amalfi Coast and you may believe that you've found heaven on earth. That's the kind of spellbinding effect this stretch of Italian coastline tends to have on the 5 million annual visitors who cross its mesmerizing paths. Located in the Campania region of Italy, this UNESCO World Heritage site covers 34 miles of majestic terrain; sky-high costal cliffs display vibrant vegetation and multicolored towns live side by side with the disarming turquoise waters of the Mediterranean, creating a scene that has the power to stop even the most seasoned of travelers dead in their tracks. ",
+    "price": "$400",
+    "image": "https://i.ibb.co/S7XPn3w/service-img-4.png"
+  },
+  {
+    "id": 5,
+    "title": "French Rivira, France",
+    "description": "The French Riviera is a coastal region in southeastern France nestled along the Mediterranean Sea. While cities and towns in the Riviera exhibit French culture, cuisine, and lifestyle in their own specific way, it’s the beautiful beaches, fields of lavender, and rugged, mountainous terrain that make this region such an intriguing juxtaposition to Paris and many other French cities — and one of France’s most popular travel destinations, especially in the summer.",
+    "price": "$360",
+    "image": "https://i.ibb.co/T8mm7T8/service-img-5.png"
+  },
+  {
+    "id": 6,
+    "title": "Lake Geneva, France",
+    "description": "Lake Geneva (or Lac Léman) is a crescent-shaped lake shared between France and Switzerland, and overlooked by the Alps. Geneva, the Swiss city at its southern tip, is a diplomatic hub with luxury shops and a cobbled old town. On the southern, French side, is the spa town and resort of Évian-les-Bains. The chic, palm-studded Swiss Riviera stretches along the north shore from Lausanne to Montreux",
+    "price": "$450",
+    "image": "https://i.ibb.co/wy7rcHT/service-img-6.png"
+  }
+]

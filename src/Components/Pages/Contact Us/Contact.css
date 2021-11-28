@@ -1,0 +1,23 @@
+.Contat-header {
+  background-image: url(https://www.tourx-react.egenslab.com/static/media/breadcrumb-bg.9cc4efda.png);
+  background-size: cover;
+}
+.footer-card i {
+  font-size: 40px;
+  padding-left: 30px;
+}
+.footer-card p {
+  color: #b5b1ab;
+}
+.single-card {
+  box-shadow: 3px 7px 11px #e3e3e3;
+}
+.contact-btn {
+  background-color: #ff7f47 !important;
+  color: white !important;
+}
+.footer-h5 {
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 38px;
+}

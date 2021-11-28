@@ -1,0 +1,7 @@
+.rat-img {
+  height: 114px;
+  width: 114px;
+  border-radius: 50%;
+  border: 8px solid rgba(48, 79, 71, 0.1);
+  margin: 0 auto;
+}
